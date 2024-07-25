@@ -1,0 +1,6 @@
+projectKey=Sis_Inventarios
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=Sis_Inventarios
+ceTaskId=9e53a1d5-2b71-484a-be14-d3445896500b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=9e53a1d5-2b71-484a-be14-d3445896500b
